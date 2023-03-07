@@ -5,10 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moonkhan1" alt="moonkhan1" /></a> </p>
 
+- 📫 How to reach me **ayxanhesenov3105@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ayxan-hasanov-2364ba224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayxan-hasanov-2364ba224/" height="30" width="40" /></a>
-<a href="https://www.behance.net/ayxanhsnov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/ayxanhsnov" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ayxan-hasanov-2364ba224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayxan-hasanov-2364ba224" height="30" width="40" /></a>
+<a href="https://www.behance.net/ayxanhsnov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ayxanhsnov" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -17,5 +19,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moonkhan1&show_icons=true&locale=en&layout=compact" alt="moonkhan1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moonkhan1&show_icons=true&locale=en" alt="moonkhan1" /></p>
-
 <h1 align="center">So long, and thanks for all the fish</h1>
