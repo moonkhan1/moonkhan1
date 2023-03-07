@@ -1,4 +1,4 @@
-<h1 align="center">My name is Ayxan Hasanov</h1>
+<h1 align="center">Ayxan Hasanov</h1>
 <h3 align="center">Game Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moonkhan1&label=Profile%20views&color=0e75b6&style=flat" alt="moonkhan1" /> </p>
@@ -17,3 +17,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moonkhan1&show_icons=true&locale=en&layout=compact" alt="moonkhan1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moonkhan1&show_icons=true&locale=en" alt="moonkhan1" /></p>
+
+<h1 align="center">So long, and thanks for all the fish</h1>
