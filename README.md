@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Game Developer<br>Seeking for Game Development job<br>Reach me - ayxanhesenov3105@gmail.com<br>Linkedin - https://www.linkedin.com/in/ayxan-hasanov-2364ba224/<br>Behance - https://www.behance.net/ayxanhsnov
+I am a Game Developer<br>Seeking for Game Development job<br>Reach me - ayxanhesenov3105@gmail.com<br>
 
 
 ## 🌐 Socials:
@@ -18,4 +18,4 @@ I am a Game Developer<br>Seeking for Game Development job<br>Reach me - ayxanhes
 ---
 [![](https://visitcount.itsvg.in/api?id=moonkhan1&icon=5&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+So long, and thanks for all the fish!
