@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Game Developer<br>Seeking for Game Development job<br>Reach me - ayxanhesenov3105@gmail.com<br>
+<br>Reach me - ayxanhesenov3105@gmail.com<br>
 
 
 ## 🌐 Socials:
